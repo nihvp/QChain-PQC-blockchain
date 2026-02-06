@@ -24,7 +24,7 @@ Our goal: Make it secure AND fast.
 ### Weekly Goals
 
 **Week 1-3:** Research and planning  
-**Week 4-6:** Choose which crypto to use  
+**Week 4-6:** Choose which cryptography to use  
 **Week 7-10:** Build basic version  
 **Week 11-13:** Test and fix  
 **Week 14-16:** Final report and presentation  
